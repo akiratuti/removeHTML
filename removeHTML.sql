@@ -14,3 +14,6 @@ set nPos1 = InStr(strText, "<");
 END WHILE;
 return strText;
 END
+
+-- Author: Roberto Akira Tsuchiya
+-- 2020/09/09
